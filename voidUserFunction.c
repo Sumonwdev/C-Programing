@@ -1,3 +1,7 @@
+/* Description: A program to check whether the input
+ * integer number is positive or negative. 
+ * Written by: Chaitanya Singh
+ * Published on: beginnersbook.com*/
 //Example2: Creating a void user defined function that doesn’t return anything
 #include <stdio.h>
 

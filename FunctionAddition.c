@@ -1,4 +1,8 @@
-/*Example1: Creating a user defined function addition()
+/* Description: A program to check whether the input
+ * integer number is positive or negative 
+ * Written by: Chaitanya Singh
+ * Published on: beginnersbook.com
+ * Example1: Creating a user defined function addition()
 */
 #include <stdio.h>
 int addition(int num1, int num2)
