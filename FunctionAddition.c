@@ -1,3 +1,5 @@
+/*Example1: Creating a user defined function addition()
+*/
 #include <stdio.h>
 int addition(int num1, int num2)
 {
