@@ -8,7 +8,7 @@
 /* function return type is void and it doesn't have parameters*/
 void introduction()
 {
-    printf("hello\n");
+    printf("hello programar\n");
     printf("We practice examples C Programing\n");
     printf("Thanks for all\n");
     printf("happy programing\n");
